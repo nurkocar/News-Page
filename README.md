@@ -1,5 +1,4 @@
-# Reusable-Component
-![screenshot](./src/assets/Capture1.PNG)
-![screenshot](./src/assets/Capture2.PNG)
-![screenshot](./src/assets/Capture3.PNG)# Login-Page
-# News-Page
+# News Page
+![screenshot](./src/images/Capture1.PNG)
+![screenshot](./src/images/Capture2.PNG)
+![screenshot](./src/images/Capture3.PNG)
