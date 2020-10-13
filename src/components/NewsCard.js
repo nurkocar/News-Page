@@ -18,7 +18,8 @@ export {NewsCard};
 
 const styles = StyleSheet.create({
     container: {
-        width: Dimensions.get('window').width * 0.45,
+        flex:1,
+        // width: Dimensions.get('window').width * 0.45,
         borderWidth:1,
         borderColor:'#e0e0e0',
         padding:5,
